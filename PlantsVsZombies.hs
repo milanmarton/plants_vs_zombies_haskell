@@ -1,4 +1,4 @@
-module plants_vs_zombies where
+module PlantsVsZombies where
 
 import Data.Maybe
 
